@@ -1,0 +1,1 @@
+s3://us-west-2.elasticmapreduce.samples/cloudfront/code/Hive_CloudFront.q
